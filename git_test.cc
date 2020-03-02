@@ -32,5 +32,7 @@ int main(){
     for(int i=0; i < answer.size(); i++){
       std::cout << answer.at(i) << ' ';
     }
-      
+
+     // If you have an issue compiling, use    g++ -std=c++11 <filename>
+
 }
